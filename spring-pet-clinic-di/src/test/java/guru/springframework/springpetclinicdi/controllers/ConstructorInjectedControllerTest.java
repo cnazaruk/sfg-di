@@ -1,6 +1,6 @@
 package guru.springframework.springpetclinicdi.controllers;
 
-import guru.springframework.springpetclinicdi.services.ConstructorGreetingService;
+import guru.services.ConstructorGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

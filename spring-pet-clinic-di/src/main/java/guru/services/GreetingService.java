@@ -1,4 +1,4 @@
-package guru.springframework.springpetclinicdi.services;
+package guru.services;
 
 public interface GreetingService {
 
